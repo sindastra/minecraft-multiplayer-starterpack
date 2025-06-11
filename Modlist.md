@@ -1,0 +1,32 @@
+- [AdvancedLootInfo](https://modrinth.com/mod/PEPVViac) by Yanny
+- [Anvian's Lib](https://modrinth.com/mod/PuTjrq4T) by anvian
+- [AppleSkin](https://modrinth.com/mod/EsAfCjCV) by squeek502
+- [Architectury](https://modrinth.com/mod/lhGA9TYQ) by shedaniel
+- [BetterF3](https://modrinth.com/mod/8shC1gFX) by cominixo, TreyRuffy
+- [Bobby](https://modrinth.com/mod/M08ruV16) by johni0702
+- [Cloth Config v17](https://modrinth.com/mod/9s6osm5g) by shedaniel
+- [EntityCulling](https://modrinth.com/mod/NNAgCjsB) by tr7zw
+- [Fabric API](https://modrinth.com/mod/P7dR8mSH) by FabricMC
+- [Falling Leaves](https://modrinth.com/mod/WhbRG4iK) by Fourmisain, BrekiTomasson, RandomMcSomethin
+- [FerriteCore](https://modrinth.com/mod/uXXizFIs) by malte0811
+- [Forge Config API Port](https://modrinth.com/mod/ohNO6lps) by Fuzs
+- [Inventory Tweak](https://modrinth.com/mod/jGVzcXaf) by anvian
+- [Iris](https://modrinth.com/mod/YL57xq9U) by coderbot, IMS212, Justsnoopy30, FoundationGames
+- [Jade](https://modrinth.com/mod/nvQzSEkH) by Snownee
+- (awaiting permission to include) [LambDynamicLights](https://modrinth.com/mod/yBW8D80W) by LambdAurora
+- [Light Level 2025](https://modrinth.com/mod/GEuPeVxN) by dark\-lion\-jp
+- [MaLiLib](https://modrinth.com/mod/GcWjdA9I) by masa
+- [Mine Little Pony](https://modrinth.com/mod/JBjInUXM) by Mumfrey, Killjoy1221, Sollace
+- [Mob Plaques](https://modrinth.com/mod/3b1CFIR5) by Fuzs
+- [Mod Menu](https://modrinth.com/mod/mOgUt4GM) by Prospector, haykam821, TerraformersMC
+- [No Chat Reports](https://modrinth.com/mod/qQyHxfxd) by Aizistral
+- [Placeholder API](https://modrinth.com/mod/eXts2L7r) by Patbox
+- [Puzzles Lib](https://modrinth.com/mod/QAGBst4M) by Fuzs
+- [Roughly Enough Items](https://modrinth.com/mod/nfn13YXA) by shedaniel
+- [Shulker Box Tooltip](https://modrinth.com/mod/2M01OLQq) by MisterPeModder
+- [Sodium](https://modrinth.com/mod/AANobbMI) by JellySquid \(jellysquid3\)
+- [Tweakeroo](https://modrinth.com/mod/t5wuYk45) by masa
+- [WorldEdit](https://modrinth.com/mod/1u6JkXh5) by EngineHub
+- [Xaero's Minimap](https://modrinth.com/mod/1bokaNcj) by xaero96
+- [Xaero's World Map](https://modrinth.com/mod/NcUtCpym) by xaero96
+- [oωo](https://modrinth.com/mod/ccKDOlHs) by glisco
