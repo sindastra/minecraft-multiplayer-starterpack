@@ -13,7 +13,7 @@
 - [Inventory Tweak](https://modrinth.com/mod/jGVzcXaf) by anvian
 - [Iris](https://modrinth.com/mod/YL57xq9U) by coderbot, IMS212, Justsnoopy30, FoundationGames
 - [Jade](https://modrinth.com/mod/nvQzSEkH) by Snownee
-- (awaiting permission to include) [LambDynamicLights](https://modrinth.com/mod/yBW8D80W) by LambdAurora
+- [LambDynamicLights](https://modrinth.com/mod/yBW8D80W) by LambdAurora
 - [Light Level 2025](https://modrinth.com/mod/GEuPeVxN) by dark\-lion\-jp
 - [MaLiLib](https://modrinth.com/mod/GcWjdA9I) by masa
 - [Mine Little Pony](https://modrinth.com/mod/JBjInUXM) by Mumfrey, Killjoy1221, Sollace
